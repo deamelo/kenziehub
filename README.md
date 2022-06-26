@@ -2,4 +2,4 @@
 
 **A aplicação faz a requisição em uma API**
 
-O usuário pode adicionar, editar ou remover uma tecnologia, após efetuar sua login.
+O usuário pode adicionar, editar ou remover uma tecnologia, após efetuar seu login.
